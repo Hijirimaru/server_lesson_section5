@@ -12,4 +12,4 @@
 - v
 # note
 - touch gizumo{1..50}.md
-- mv gizumo{20..40}.md trashi
+- mv gizumo{20..40}.md trash
