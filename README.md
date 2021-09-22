@@ -1,4 +1,4 @@
-#command 
+# command 
 - ls
 - pwd
 - cd
@@ -9,4 +9,7 @@
 - mv
 - rm
 - cat
-- vi
+- v
+# note
+- touch gizumo{1..50}.md
+- mv gizumo{20..40}.md trashi
