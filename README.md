@@ -11,5 +11,5 @@
 - cat
 - v
 # note
-- touch gizumo{1..50}.md
+- touch gizumo{01..50}.md
 - mv gizumo{20..40}.md ../trash
